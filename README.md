@@ -27,3 +27,11 @@ package.json-be beírni:
 "server": "nodemon server.js",
 
 npm install express body-parser mongoose shortid
+
+# Add Redux to products
+
+npm install redux react-redux redux-thunk
+
+setting proxy:
+package.json fájlba beleírni:
+"proxy": "http://localhost:5000",
