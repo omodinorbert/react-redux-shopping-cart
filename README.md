@@ -18,3 +18,12 @@ npm install react-reveal
 
 npm install react-modal
 ha hiba történne, npm rebuild
+
+# Products backend
+
+nmp install nodemon
+package.json-be beírni:
+"scripts": {
+"server": "nodemon server.js",
+
+npm install express body-parser mongoose shortid
