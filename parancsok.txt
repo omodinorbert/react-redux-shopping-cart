@@ -1,1 +1,3 @@
 git remote add origin git@github.com:omodinorbert/react-redux-shopping-cart.git
+
+npm install react-reveal
